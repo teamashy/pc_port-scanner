@@ -3,10 +3,7 @@
 # Form implementation generated from reading ui file 'portScanner.ui'
 #
 # Created by: PyQt4 UI code generator 4.11.4
-#
-# WARNING! All changes made in this file will be lost!
 
-# Tsitsi H. Sithole (H150354A)
 # 
 # Code Explanation: The port scanner first resolves the host name input (URL) into an IP address.
 # This address is then recursively pinged at various ports in order to find out which ones are accessible.
